@@ -53,8 +53,7 @@ if(isset($_REQUEST["language1"])||isset($_REQUEST["language2"])||isset($_REQUEST
     else if(isset($_REQUEST["language3"])){
         echo "<br> you have selected3: " . $_REQUEST["language3"];
     }
-
-     
+    
 }
 else
 {
